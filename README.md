@@ -24,6 +24,9 @@ Complaint &amp; Advisor Dashboard
 
 ![Image alt](https://github.com/rumina23/Complaint-Advisor-Dashboard/blob/main/complaint%20Dashbaord.gif?raw=true)
 
+![Image alt](
+![Image alt](https://github.com/rumina23/Complaint-Advisor-Dashboard/blob/main/complaint%20Dashbaord.gif?raw=true)
+
 
 
 
