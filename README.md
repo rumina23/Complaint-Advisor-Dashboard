@@ -22,6 +22,8 @@ Complaint &amp; Advisor Dashboard
 		High uphold rate confirms complaints are driven by real service issues.
 		Reducing complaints requires improving processes, not just handling capacity.
 
+https://github.com/rumina23/Complaint-Advisor-Dashboard/blob/main/complaint%20Dashbaord.gif
+
 
 
 
