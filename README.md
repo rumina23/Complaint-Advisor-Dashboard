@@ -16,7 +16,7 @@ Consumer Credit (Workload Index: 156K)
 
 This concentration increases the risk of delays, reduced efficiency, and advisor overload.
 
-Workforce capacity must align with forecast demand. Forecasts indicate approximately 278K complaints expected in FY2026. Based on current productivity assumptions, around 45 advisors may be needed to manage the expected complaint workload efficiently.
+Workforce capacity must align with forecast demand. Forecasts indicate approximately 278K complaints expected in FY2026. Based on current productivity assumptions, around -- advisors may be needed to manage the expected complaint workload efficiently.
 
 Complaint reduction depends on process improvement. The relatively high uphold rate suggests that many complaints are linked to genuine service or operational issues. Therefore, reducing complaint volumes will require process and service improvements, not just more handling capacity.
 
